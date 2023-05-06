@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2b7a006-7091-41ae-84c6-4d8f7e49cdcf" name="Changes" comment="" />
+    <list default="true" id="f2b7a006-7091-41ae-84c6-4d8f7e49cdcf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Agua.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Agua.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Duenio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Duenio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Hamster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Mojarrita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Mojarrita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Perro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Perro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Sexo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Sexo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Tipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Tipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/CantMascotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/CantMascotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/IngresarAnimales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/IngresarAnimales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/MostrarMascotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/MostrarMascotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/RetirarAnimales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/RetirarAnimales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/Saludo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/Saludo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/guarderia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/guarderia/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -20,12 +57,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;false&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;203&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -1,2 +1,5 @@
-package logica;public enum Sexo {
+package logica;
+
+public enum Sexo {
+    MACHO, HEMBRA
 }

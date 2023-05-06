@@ -1,2 +1,6 @@
-package logica;public enum Agua {
+package logica;
+
+public enum Agua {
+    FRIA,
+    TROPICAL
 }

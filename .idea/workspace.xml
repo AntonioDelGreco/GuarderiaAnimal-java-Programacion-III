@@ -4,25 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2b7a006-7091-41ae-84c6-4d8f7e49cdcf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f2b7a006-7091-41ae-84c6-4d8f7e49cdcf" name="Changes" comment="segundo commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Agua.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Agua.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Duenio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Duenio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Gato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Hamster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Mojarrita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Mojarrita.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Perro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Perro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Sexo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Sexo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/Tipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/Tipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/CantMascotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/CantMascotas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/IngresarAnimales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/IngresarAnimales.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/MostrarMascotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/MostrarMascotas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/RetirarAnimales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/RetirarAnimales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/Saludo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logica/opcionesMenu/Saludo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/guarderia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/guarderia/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -76,6 +67,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683072513192</updated>
     </task>
+    <task id="LOCAL-00001" summary="segundo commit">
+      <created>1683413035007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683413035007</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="segundo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="segundo commit" />
   </component>
 </project>
